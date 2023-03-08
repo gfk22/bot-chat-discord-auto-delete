@@ -1,7 +1,7 @@
 export default {
-	token: "ODg4NzYxMDMwNTAxNjE3NzE0.Ge8N2B._Lg4qeH3y5Y7Mm3PsOCEGuS9xJXBfIv0N69RWI",
-	tokenSymbol: "cats",
-	projectName: "cats",
+	token: "isi token",
+	tokenSymbol: "token simbol",
+	projectName: "nama project",
 	timezone: "Asia/Jakarta",
 	channelId: [
 		"1061673633543626854",
